@@ -1,4 +1,3 @@
-# Confused_Cat_Asset
 # Confused Cat Asset 🐱❓
 
 This is an open-source graphic asset drawn by `@erru_u` on TikTok. 
